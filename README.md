@@ -1,2 +1,3 @@
-# dm_dv
-Database mgmt and data visualization class
+# Hello-world
+This is my first repository.
+I am looking forward to learn more.
